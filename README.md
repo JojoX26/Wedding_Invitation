@@ -20,8 +20,7 @@ A simple website that allows you to send an invitation in an easy way.
 
 Today in our century almost everyone is connected to the network or have access to the internet almost everywhere.
 In addition, it is important for us to preserve the environment and especially not to destroy it.
-Therefore, this website provides both of these conditions when the main function of the site is to easily send people an invitation
-and qualify for several simultaneously without effort and without cost.
+Therefore, this website provides both of these conditions when the main function of the site is to easily send people an invitation and to several simultaneously and effortlessly and even at no cost 
 And so we kept the environment and saved time and the tree.
 
 ## Prerequisites
@@ -101,7 +100,12 @@ var x = setInterval(function() {
 ```
 
 ## Results
-![GitHub Logo](Screenshot (12).png)
+
+as you can see this is the website should be seen
+
+<img src="images/Screenshot (12).png" width="250"> <img src="images/Screenshot (16).png" width="250"> 
+<img src="images/Screenshot (14).png" width="250"> <img src="images/Screenshot (13).png" width="250">
+<img src="images/Screenshot (15).png" width="250"> 
 
 
 
